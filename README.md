@@ -1,7 +1,7 @@
 # NetspherePirates [![Build status](https://ci.appveyor.com/api/projects/status/xih9n36ar655rayl/branch/master?svg=true)](https://ci.appveyor.com/project/wtfblub/netspherepirates/branch/master)
 Experimental S4 League server emulator for patch 34(EU v1139 - Season 1).
 
-**The server code is currently undergoing a complete rewrite on a private repo** - I'll start uploading changes to this repo once it reaches a useable state :)
+**Development is on the [dev branch](https://github.com/wtfblub/NetspherePirates/tree/dev) - master is the last working version**
 
 ### Requirements
 * **On Windows:**
